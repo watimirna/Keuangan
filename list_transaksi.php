@@ -4,7 +4,7 @@
     <title>List Transaksi</title>
 </head>
 <body>
-    <h2>Pemograman 3 2023</h2>
+    <h2>Pemprograman 3 2023</h2>
     <br>
     <a href="../Home.html">Home</a>
     <br>

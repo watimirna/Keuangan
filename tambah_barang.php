@@ -23,7 +23,7 @@
     }
 ?>
 <body>
-    <h2>Pemograman 3 2023</h2>
+    <h2>Pemprograman 3 2023</h2>
     <br>
     <a href="list_barang.php">Kembali</a>
     <br><br>

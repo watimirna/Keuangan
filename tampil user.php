@@ -3,7 +3,7 @@
 	<title>pemrograman3.com</title>
 </head>
 <body>
-	<h2>pemograman 3 2023</h2>
+	<h2>Pemprograman 3 2023</h2>
 	<br/>
 	<a href="tambah_user.php">+ TAMBAH USER</a>
 	<br/>
