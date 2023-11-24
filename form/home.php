@@ -38,13 +38,5 @@
     </style>
 </head>
 <body>
-    <h1>Silakan Pilih Menu:</h1>
-    <ul>
-        <li><a href="list_barang.php">List Barang</a></li>
-        <li><a href="list_kategori.php">List Kategori</a></li>
-        <li><a href="list_member.php">List Member</a></li>
-        <li><a href="list_transaksi.php">List Transaksi</a></li>
-        <li><a href="logout.php">Keluar</a></li>
-    </ul>
 </body>
 </html>

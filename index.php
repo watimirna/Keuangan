@@ -17,7 +17,7 @@ if (isset($_SESSION['error_message'])) {
         <div class="signin"> 
          <div class="content"> 
           <h2>Login</h2> 
-          <form action="login.php" method="post">
+          <form action="config/login.php" method="post">
           <div class="form"> 
            <div class="inputBox"> 
             <input type="text" name=" username" id="username" required> <i>Username</i> 

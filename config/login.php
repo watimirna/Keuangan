@@ -16,12 +16,12 @@ if (isset($_POST['username']) && isset($_POST['password'])) {
         $_SESSION['id_user'] = $row['id_user'];
         $_SESSION['nama'] = $row['nama'];
         $_SESSION['level'] = $row['level'];
+        $_SESSION['status'] = $row['status'];
 
-        header('location: home.php'); // Redirect to the welcome page
+        header('location: form.php?page=home'); // Redirect to the welcome page
     } else {
         $_SESSION['error_message'] = "*Gagal Login. Username atau Password salah.";
-        header('location: index.php'); // Redirect back to the login page
+        header('location: ../index.php'); // Redirect back to the login page
     }
 }
-
 ?>
